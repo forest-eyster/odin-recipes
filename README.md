@@ -1,3 +1,3 @@
 # odin-recipes
 
-In this project I will be createing a website with recipes on it.
+In this project I will be creating a website with recipes on it.
